@@ -29,7 +29,7 @@ global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which wi
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣عبدو الوزير يروحي⍣" //ur sticker watermark packname
+global.packname = "⍣عبدو مرعي⍣" //ur sticker watermark packname
 global.author = "⍣201029880323⍣" //ur sticker watermark author
 global.wm = "❤️Abdo ᗷOT❤️." //ur watermark
 
